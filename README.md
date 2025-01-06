@@ -3,3 +3,4 @@
 # nim : 312410350
 # kelas : TI 24 A4
 # mata kuliah : bahasa pemograman
+# tugas validasi format input
