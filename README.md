@@ -7,5 +7,8 @@
 ![image](https://github.com/user-attachments/assets/39a775a5-bc50-4f0d-a3b7-ded2f87b2b78)
 # kode program tersebut
 ![Screenshot 2025-01-07 063900](https://github.com/user-attachments/assets/9ba6c368-4be5-415d-9f1c-38879efbbe1c)
+# hasil program
+![Screenshot 2025-01-07 064221](https://github.com/user-attachments/assets/127e57c8-c570-4d45-b178-fa843f84a738)
+
 
 
